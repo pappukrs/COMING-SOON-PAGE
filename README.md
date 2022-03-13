@@ -1,4 +1,4 @@
-# COMING-SOON-clone
+# Coming-Soon-clone
 
 
 
