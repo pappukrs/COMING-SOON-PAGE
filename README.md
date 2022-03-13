@@ -5,7 +5,7 @@
 
 ## Website link
 
- [coming-soon-clone](https://coming-soon-clone.netlify.app/)
+- [coming-soon-clone](https://coming-soon-clone.netlify.app/)
 
 
 
